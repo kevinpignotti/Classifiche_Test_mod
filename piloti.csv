@@ -1,0 +1,11 @@
+﻿ID_Pilota,Nome,Cognome,Nazionalit…,DataNascita,ID_Squadra
+1,Nome1,Cognome1,Italia,01/01/2019,1
+2,Nome2,Cognome2,Spagna,01/01/2010,2
+3,Nome3,Cognome3,Indonesia,01/01/2012,1
+4,Nome4,Cognome4,Malesia,01/01/2011,3
+5,Nome5,Cognome5,Spagna,01/01/2013,2
+6,Nome6,Cognome6,Francia,01/01/2014,4
+7,Nome7,Cognome7,Italia,01/06/2019,3
+8,Nome8,Cognome8,Spagna,01/01/2016,4
+9,Nome9,Cognome9,Indonesia,01/01/2000,5
+10,Nome10,Cognome10,Malesia,01/08/2011,5
